@@ -1,4 +1,5 @@
 import * as app from "./app";
+import * as app from "";
 import * as math from "./math";
 test("calls math.add", () => {
     // Almacenar la operacion original
